@@ -1,0 +1,18 @@
+#Mid Term by Ran
+#Coin Game for Greedy Emon
+
+Here is the video for my Greedy Emon's arduino part:
+https://www.youtube.com/watch?v=NvpAXZMKlMI&t=17s
+This is an interactive installation designed for collecting tips. 
+When customers come close to it, the cat will shake his hands to attract customers' attention. 
+When customers throw coins into its head, the cat will rotate his head and begin to smile.
+Then, he will be sad again.
+
+In the openframeworks part, I design a coin collecting game to connect with the cat. 
+When he shakes arm, the cat head on the screen will shake from left to right.
+When people throw a coin into his head, there will be a "coin rain" in the game
+people can use the "left and right key" to control the cat head to collect the coins.
+And there is a counter in the left corner.
+Here are the demos for the game
+https://www.youtube.com/watch?v=I8fnDV7HFek&t=2s
+https://www.youtube.com/watch?v=BnjNsYc-AUs
